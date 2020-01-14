@@ -1,23 +1,27 @@
-## First Name Last Name
+## Ethan Tunnicliffe
 
 ### Spring 2020 
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Business Analytics student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Analytics Capstone
 
-- Course 2
+- Database 1
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Purchasing and Materials Management
+
+- STEM Special Topics
+
+- Strategic Management
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Sleep
 
-- Thing 2
+- Work
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Comedy
