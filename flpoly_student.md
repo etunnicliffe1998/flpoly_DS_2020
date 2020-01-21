@@ -25,3 +25,14 @@ I am _passionate about_:
 - Work
 
 - Comedy
+
+**Table**
+
+| Prefix | Number | Name                               |
+|--------|--------|------------------------------------|
+| **IDC**    | **4943**   | _Data Analytics Capstone_            |
+| **COP**    | **3710**   | _Databse 1_                          |
+| **COP**    | **2073**   | _Introduction to Data Science_       |
+| **MAN**    | **3570**   | _Purchasing and Materials Management_|
+| **EGN**    | **4930**   | _STEM Special Topics_                |
+| **MAN**    | **4633**   | _Strategic Management_               |
